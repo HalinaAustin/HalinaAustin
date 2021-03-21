@@ -1,0 +1,4 @@
+-  Hi, I’m HalinaAustin.
+-  I’m interested in machine learning. 
+-  I’m currently looking for a junior level job in machine learning using python.
+-  You can find me in xing and linkedIn
